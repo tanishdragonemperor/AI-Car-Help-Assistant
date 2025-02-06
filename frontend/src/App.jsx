@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <div className="logo">AutoZone</div>
+        <div className="logo">Tanish Auto Assistant</div>
       </header>
 
       <main>
